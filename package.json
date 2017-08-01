@@ -1,0 +1,9 @@
+{
+  "name": "jsb",
+  "version": "0.1.0",
+  "description": "Do stuff with JavaScript",
+  "main": "main.js",
+  "repository": "https://github.com/JSBuild/jsb-cli.git",
+  "author": "Jamey McElveen <jamey@mcelveen.us>",
+  "license": "MIT"
+}

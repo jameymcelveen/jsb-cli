@@ -1,0 +1,19 @@
+### Project
+bin/dev/
+
+### Node.js
+node_modules/
+
+### macOS
+*.DS_Store
+
+### JetBrains
+.idea/
+
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
